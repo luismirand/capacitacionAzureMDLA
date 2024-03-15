@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/cb75685e-ebc4-41f2-8c61-cf5124c8c7f9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/MirandaDiaz",
+    "appService.deploySubpath": "."
+}
